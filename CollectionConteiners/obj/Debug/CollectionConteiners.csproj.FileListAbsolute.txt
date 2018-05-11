@@ -1,0 +1,10 @@
+C:\Users\Volodya\source\repos\CollectionConteiners\CollectionConteiners\bin\Debug\CollectionConteiners.dll
+C:\Users\Volodya\source\repos\CollectionConteiners\CollectionConteiners\bin\Debug\CollectionConteiners.pdb
+C:\Users\Volodya\source\repos\CollectionConteiners\CollectionConteiners\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Volodya\source\repos\CollectionConteiners\CollectionConteiners\obj\Debug\CollectionConteiners.csproj.CoreCompileInputs.cache
+C:\Users\Volodya\source\repos\CollectionConteiners\CollectionConteiners\obj\Debug\CollectionConteiners.csproj.CopyComplete
+C:\Users\Volodya\source\repos\CollectionConteiners\CollectionConteiners\obj\Debug\CollectionConteiners.dll
+C:\Users\Volodya\source\repos\CollectionConteiners\CollectionConteiners\obj\Debug\CollectionConteiners.pdb
+C:\Users\Volodya\source\repos\CollectionConteiners\CollectionConteiners\bin\Debug\nunit.framework.dll
+C:\Users\Volodya\source\repos\CollectionConteiners\CollectionConteiners\bin\Debug\nunit.framework.pdb
+C:\Users\Volodya\source\repos\CollectionConteiners\CollectionConteiners\bin\Debug\nunit.framework.xml

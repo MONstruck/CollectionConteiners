@@ -1,0 +1,14 @@
+C:\Users\Volodya\source\repos\CollectionConteiners\CollectionContainersProgram\bin\Debug\CollectionContainersProgram.exe
+C:\Users\Volodya\source\repos\CollectionConteiners\CollectionContainersProgram\bin\Debug\CollectionConteiners.dll
+C:\Users\Volodya\source\repos\CollectionConteiners\CollectionContainersProgram\bin\Debug\CollectionContainersProgram.exe.config
+C:\Users\Volodya\source\repos\CollectionConteiners\CollectionContainersProgram\bin\Debug\CollectionContainersProgram.pdb
+C:\Users\Volodya\source\repos\CollectionConteiners\CollectionContainersProgram\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Volodya\source\repos\CollectionConteiners\CollectionContainersProgram\bin\Debug\CollectionConteiners.pdb
+C:\Users\Volodya\source\repos\CollectionConteiners\CollectionContainersProgram\obj\Debug\CollectionContainersProgram.csprojResolveAssemblyReference.cache
+C:\Users\Volodya\source\repos\CollectionConteiners\CollectionContainersProgram\obj\Debug\CollectionContainersProgram.csproj.CoreCompileInputs.cache
+C:\Users\Volodya\source\repos\CollectionConteiners\CollectionContainersProgram\obj\Debug\CollectionContainersProgram.csproj.CopyComplete
+C:\Users\Volodya\source\repos\CollectionConteiners\CollectionContainersProgram\obj\Debug\CollectionContainersProgram.exe
+C:\Users\Volodya\source\repos\CollectionConteiners\CollectionContainersProgram\obj\Debug\CollectionContainersProgram.pdb
+C:\Users\Volodya\source\repos\CollectionConteiners\CollectionContainersProgram\bin\Debug\nunit.framework.dll
+C:\Users\Volodya\source\repos\CollectionConteiners\CollectionContainersProgram\bin\Debug\nunit.framework.pdb
+C:\Users\Volodya\source\repos\CollectionConteiners\CollectionContainersProgram\bin\Debug\nunit.framework.xml
